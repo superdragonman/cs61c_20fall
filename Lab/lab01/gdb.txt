@@ -1,9 +1,14 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1.set args <arguments>
+  例如：set args input.txt output.txt
+2.break <location>
+ break main 或 break 12（在第12行）
+3.next
+4.step
+5.continue
+6.print <variable or expression>
+  例如：print x 或 print 1+2
+7.display <variable>
+  例如：display x
+8.info locals
+9.quit
+  或简写为：q
