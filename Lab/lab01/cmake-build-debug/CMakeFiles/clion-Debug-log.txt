@@ -1,1 +1,1 @@
-CMakeLists.txt not found in /Users/liuzhaoyang/CLionProjects/cs61c_20fall/Lab/lab01 Select CMakeLists.txt
+CMakeLists.txt not found in E:\CS61C-Assignment\Lab\lab01 Select CMakeLists.txt
